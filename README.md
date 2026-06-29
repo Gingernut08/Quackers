@@ -1,0 +1,1 @@
+Quackers the duck is a friendly and jolly companion along the bottom of your screen. When the INSERT key is pressed Quackers is muted and can no longer make sound. When you click Quackers will make a sound from 7 random duck quacks, and when a key is pressed there is a 1/50 changce Quackers will quack.
